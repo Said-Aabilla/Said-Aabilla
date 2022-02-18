@@ -9,7 +9,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="www.linkedin.com/in/said-aabilla-aa78ab198" target="blank"><img align="center"
+  <a href="mailto:said.aabilla@gmail.com" target="blank"><img align="center"
+      src="https://logodownload.org/wp-content/uploads/2018/03/gmail-logo-16.png"
+      alt="Said Aabilla" height="28" width="38" /></a>
+  <a href="https://www.linkedin.com/in/said-aabilla/" target="blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Said Aabilla" height="30" width="40" /></a>
   <a href="https://www.instagram.com/_said_aabilla/" target="blank"><img align="center"
