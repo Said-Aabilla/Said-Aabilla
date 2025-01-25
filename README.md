@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Said Aabilla</h1>
-<h3 align="center">🚀 Software Engineer | AI/ML Enthusiast | Lead Trainer Scrum Master | Driving Innovation & Growth in the Tech Landscape</h3>
+<h3 align="center">🚀 Software Engineer | Lead Trainer | Driving Innovation & Growth in the Tech Landscape</h3>
 
 ---
 
@@ -13,25 +13,24 @@ As a software engineer with a passion for technology, I bring a dynamic blend of
 ---
 
 ## 🌟 Areas of Expertise
-- **Agile Methodologies** & Scrum Framework  
+- **Agile Methodologies** & **Scrum Framework**   
 - **Software Craftsmanship**  
-- Full-Stack Development: *Java, Spring Boot, React, Angular, Laravel*  
-- **Innovation Strategy** & Implementation  
-- Technical Training & Mentorship  
-- Scalability & Performance Enhancement  
-- DevOps Practices: *Automation, Collaboration, Workflow Optimization*  
+- **Full-Stack Development**  
+- **Innovation Strategy** & **Implementation**  
+- **Technical Training & Mentorship**    
+- **Scalability & Performance Enhancement**  
+- **DevOps Practices:**  *Automation, Collaboration, Workflow Optimization*  
 - **Project Management** & Delivery  
-- Diversity & Inclusion Advocacy  
 
 ---
 
 ## ⚙️ Technical Skills
 
 ### **Programming Languages**
-- JavaScript, Java, Python, PHP  
+- JavaScript, Java, Python, PHP, C/C++.
 
 ### **Frameworks & Libraries**
-- React, Angular, Laravel, Spring Boot, Express.js  
+- React, Laravel, Spring Boot.  
 
 ### **Databases**
 - MongoDB, MySQL, PostgreSQL  
@@ -42,6 +41,9 @@ As a software engineer with a passion for technology, I bring a dynamic blend of
 ### **Version Control**
 - Git  
 
+### **Additional Tools & Practices**
+- Apache Kafka, Hexagonal Architecture, Domain-Driven Design (DDD), Saga Pattern, Outbox Pattern.
+
 ---
 
 ## 🌐 Connect with Me:
@@ -51,9 +53,9 @@ As a software engineer with a passion for technology, I bring a dynamic blend of
 <a href="https://www.linkedin.com/in/said-aabilla/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
 </a>
-<a href="https://www.instagram.com/_said_aabilla/" target="blank">
+<!-- <a href="https://www.instagram.com/_said_aabilla/" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
-</a>
+</a> -->
 <a href="https://www.codewars.com/users/Said-Aabilla" target="blank">
   <img align="center" src="https://docs.codewars.com/logo.svg" alt="CodeWars" height="30" width="40" />
 </a>
